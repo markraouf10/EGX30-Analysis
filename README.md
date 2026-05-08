@@ -18,7 +18,7 @@ This project analyzes 12 years of EGX30 daily price data to uncover behavioral p
 
 ## Project Structure
 - EGX30_Analysis.ipynb - Full project notebook (Phases 3-7)
-- data/ - Raw dataset (EGX_30_Historical_Data.csv)
+- data/ - Raw dataset (EGX_30_Historical_Data.csv) sourced from Investing.com
 - figures/ - All 15 generated charts
 - report/ - IEEE format report (PDF) and PowerPoint presentation
 - dashboard/ - Power BI dashboard (.pbix) and screenshot
