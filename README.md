@@ -20,6 +20,8 @@ This project analyzes 12 years of EGX30 daily price data to uncover behavioral p
 - EGX30_Analysis.ipynb - Full project notebook (Phases 3-7)
 - data/ - Raw dataset (EGX_30_Historical_Data.csv)
 - figures/ - All 15 generated charts
+- report/ - IEEE format report (PDF) and PowerPoint presentation
+- dashboard/ - Power BI dashboard (.pbix) and screenshot
 
 ## Analysis Phases
 1. Data Loading and Inspection
@@ -29,7 +31,7 @@ This project analyzes 12 years of EGX30 daily price data to uncover behavioral p
 5. ARIMA Forecasting and Residual Diagnostics
 
 ## Tools and Libraries
-Python, Pandas, NumPy, Matplotlib, Seaborn, Statsmodels, Scikit-learn
+Python, Pandas, NumPy, Matplotlib, Seaborn, Statsmodels, Scikit-learn, Power BI
 
 ## Institution
 Arab Academy for Science, Technology and Maritime Transport (AAST)
