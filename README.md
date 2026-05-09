@@ -12,13 +12,13 @@ This project analyzes 12 years of EGX30 daily price data to uncover behavioral p
 - Total return of 666.9%% over 12 years
 - Maximum drawdown of -52.85%% bottoming on July 5, 2022
 - Ramadan effect confirmed: -0.054%% avg return during Ramadan vs +0.080%% outside
-- Sharpe ratio of -0.45 using Egyptian T-bill rate of 27%%
+- Sharpe ratio of +0.10 using average Egyptian CBE rate (RF=15.06%%, 2014-2025)
 - ARIMA(0,0,2) achieves 59.56%% directional accuracy on test set
 - Returns show near weak-form efficiency (minimal autocorrelation)
 
 ## Project Structure
 - EGX30_Analysis.ipynb - Full project notebook (Phases 3-7)
-- data/ - Raw dataset (EGX_30_Historical_Data.csv) sourced from Investing.com
+- data/ - Raw dataset (EGX_30_Historical_Data.csv, sourced from Investing.com)
 - figures/ - All 15 generated charts
 - report/ - IEEE format report (PDF) and PowerPoint presentation
 - dashboard/ - Power BI dashboard (.pbix) and screenshot
